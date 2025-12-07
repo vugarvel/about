@@ -16,5 +16,7 @@ Oracle Certified Professional, Java SE Programmer
 LANGUAGES
 
 Russian – native
+
 English – advanced (C1) 
+
 Azerbaijani – conversational  
